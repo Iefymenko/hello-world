@@ -1,7 +1,7 @@
 package com.efimenko.hashmap;
 
 import org.junit.Test;
-import org.testng.Assert;
+import org.junit.Assert;
 
 /**
  * Created by DSK20 on 11.12.2015.
